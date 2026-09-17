@@ -15,6 +15,7 @@ Simpler Setup: Basic linear tracking requires fewer advanced features, reducing 
 
 Late Testing: Bugs and issues are usually discovered near the end of project cycle rather than continuously.
 
+
 b. Explain the role and responsibilities of the Scrum Master vs the Product Owner.
 Product Owner (PO): The PO represents the voice of the customer and the business. They decide what features gets built next.
 
@@ -31,3 +32,24 @@ Core Focus: Team Productivity, process health and continuous improvement.
 Key responsibilities: 1. Facilitates Scrum events (Daily Standup, Sprint Planning).
 
    2. Removes impediments and blockers that slow the team down.
+
+
+What are the 3 types of meetings that happen during a sprint cycle? List at least 2 points on what needs to be discussed during each of the meetings
+
+1. Sprint Planning: This meeting kicks off the sprint to define what can be delivered and how to achieve it.
+
+  a. The Sprint Goal: Discuss why the upcoming sprint is valuable and set a clear objective that aligns the team.
+
+  b. Backlog Selection and Capacity: Review top priority product backlog items and evaluate team bandwidth/velocity to decided what works fits into the current cycle.
+
+2. Daily Standup (Daily Scrum): A brief, recurring check-in held every day to synchronize the team.
+
+  a. Progress Update: Each member shares what they completed since the last meeting and what they plan to work on today.
+
+  b. Roadblocks and Blockers: Identify any obstacles or technical challenges slowing down the progress so the team can help resolve them.
+
+3. Sprint Review: Help at the end of the sprint to showcase what was accomplished.
+
+  a. Work Demonstration: The team presents the completed features, bug fixes or product increments to stakeholders.
+
+  b. Feedback Gathering: Collect evaluation and feedback from the product owner and stakeholders to guide future backlog items.
