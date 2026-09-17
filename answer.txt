@@ -1,1 +1,15 @@
+a. Agile → Pros -  1. High Flexibility: Easily adapt to changing requirements and reprioritize the backlog.
 
+ 2. Fast Feedback: Deliver working features in a small chunks to get user input early.
+
+              Cons - 1. Steep Learning Curve: Jira can feel complex trying to run a proper Agile Framework.
+
+ 2. Scope Creep: Constant Adjustments without strict limits can expand the project scope uncontrollably.
+
+Non-Agile → Pros -  1. Clear Predictability: Fixed scopes make it easier to map out strict timelines upfront.
+
+Simpler Setup: Basic linear tracking requires fewer advanced features, reducing initial tool clutter.
+
+              Cons - 1. Rigid to Change: Altering core requirements mid projects is difficult and delays delivery.
+
+Late Testing: Bugs and issues are usually discovered near the end of project cycle rather than continuously.
