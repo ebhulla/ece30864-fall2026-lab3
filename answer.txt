@@ -1,4 +1,5 @@
-a. Agile → Pros -  1. High Flexibility: Easily adapt to changing requirements and reprioritize the backlog.
+a. What are some Pros and Cons of Agile development ( vs non-Agile)? List 2 of each.
+Agile → Pros -  1. High Flexibility: Easily adapt to changing requirements and reprioritize the backlog.
 
  2. Fast Feedback: Deliver working features in a small chunks to get user input early.
 
