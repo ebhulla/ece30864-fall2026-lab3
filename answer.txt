@@ -14,3 +14,20 @@ Simpler Setup: Basic linear tracking requires fewer advanced features, reducing 
               Cons - 1. Rigid to Change: Altering core requirements mid projects is difficult and delays delivery.
 
 Late Testing: Bugs and issues are usually discovered near the end of project cycle rather than continuously.
+
+b. Explain the role and responsibilities of the Scrum Master vs the Product Owner.
+Product Owner (PO): The PO represents the voice of the customer and the business. They decide what features gets built next.
+
+Core Focus: Product value, return on investment (ROI), and stakeholder alignment.
+
+Key Responsibilities: 1. Defines and communicates the Product Vision.
+
+Creates, maintains and orders the Product Backlog (epics, user stories).
+
+Scrum Master (SM) :  The SM is a servant leader who helps the team work efficiently. They ensure the team follows the Scrum rules and protects them from distractions.
+
+Core Focus: Team Productivity, process health and continuous improvement.
+
+Key responsibilities: 1. Facilitates Scrum events (Daily Standup, Sprint Planning).
+
+   2. Removes impediments and blockers that slow the team down.
