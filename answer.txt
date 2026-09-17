@@ -53,3 +53,30 @@ What are the 3 types of meetings that happen during a sprint cycle? List at leas
   a. Work Demonstration: The team presents the completed features, bug fixes or product increments to stakeholders.
 
   b. Feedback Gathering: Collect evaluation and feedback from the product owner and stakeholders to guide future backlog items.
+
+
+Differentiate between Epic, Story, Bug and Task issue types in JIRA
+
+Epic 
+
+  It is a large body of work that is too big to finish in a single sprint. It serves as an overarching container or bucket for related work.
+
+  We use it when an initiative requires multiple smaller stories and tasks, spans across multiple sprints or releases, and involves multiple teams or peoples.
+
+Story
+
+  It is a short, requirement-based feature written from the perspective of an end user.
+
+  We use when we have to deliver functional, tangible value to the customer or product user. It is typically estimated using story points and can be broken down further into smaller subtasks.
+
+Task
+
+  It is a generic ‘catch-all’ work item used for backend and infrastructure activities.
+
+  We use it for necessary team work that does not necessarily translates to a direct, user-facing feature (e.g., upgrading a library or internal documentation).
+
+Bug
+
+  It is a recorded flaw, error or an unexpected behaviour in the system.
+
+  We use it when the a feature has already been delivered or tested and is found to be working incorrectly. Like stories and tasks, bugs can also be linked to an overarching epic.
